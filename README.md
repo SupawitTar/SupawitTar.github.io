@@ -1,2 +1,2 @@
-# Supawit.Tar.github.io
+# SupawitTar.github.io
 My Personal Webpage Workshop
